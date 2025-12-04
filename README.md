@@ -8,6 +8,9 @@ This project aims to answer key questions about the evolutions of criminality in
 
 For the purpose of our analysis, we will use the database of the statistical service of the French Interior Ministry.
 
+Key vocabulary : 
+MEC stands for Mis en cause which means accused person 
+
 Our analysis will include the following steps : 
 Data cleaning and manipulation 
 Exploratory data analysis and visualisation 
